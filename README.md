@@ -1,6 +1,6 @@
 # InterDimenEmbed
 
-# code2vec is implemented using https://github.com/dcoimbra/dx2021
+# code2vec (trained on Devign) is implemented using https://github.com/dcoimbra/dx2021
 Our replicated version can be downloaded from https://drive.google.com/drive/folders/1uQbw_c8Hns4oKZtA5wcTGoExJqJq18jy?usp=drive_link
 
 given dataset, ReportCC++Code2Vec.ipynb file generates the embeddings
