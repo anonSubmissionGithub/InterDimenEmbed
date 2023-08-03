@@ -1,7 +1,7 @@
 # InterDimenEmbed
 
 # code2vec (trained on Devign) is implemented using https://github.com/dcoimbra/dx2021
-Our replicated version can be downloaded from https://drive.google.com/drive/folders/1uQbw_c8Hns4oKZtA5wcTGoExJqJq18jy?usp=drive_link
+Our replicated version can be downloaded from 
 
 given dataset, ReportCC++Code2Vec.ipynb file generates the embeddings
 
@@ -11,6 +11,6 @@ the result after applying the rankings are availabe inside classifier folder. Th
 
 # SBERT is implemented using https://www.sbert.net/
 the classifying result using SBERT was implemented using https://towardsdatascience.com/sbert-vs-data2vec-on-text-classification-e3c35b19c949
-Our replicaed version can be downloaded from https://drive.google.com/drive/folders/1sisoZDVlxQnXdHHoIdYgka8S6TZ-88W4?usp=sharing
+Our replicaed version can be downloaded from 
 ReportCC++SBERTOurs.ipynb file generates the embeddings, cosine similairity and ranking
 Similarly the result can be passed to the  decisionTree.ipynb
