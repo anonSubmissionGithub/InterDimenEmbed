@@ -2,7 +2,7 @@
 
 # code2vec (trained on Devign) is implemented using https://github.com/dcoimbra/dx2021
 
-Our replicated version can be downloaded from 
+Our part is available in code2vec folder.
 
 given dataset, ReportCC++Code2Vec.ipynb file generates the embeddings
 
@@ -14,7 +14,7 @@ the result after applying the rankings are availabe inside classifier folder. Th
 
 the classifying result using SBERT was implemented using https://towardsdatascience.com/sbert-vs-data2vec-on-text-classification-e3c35b19c949
 
-Our replicaed version can be downloaded from 
+Our part is available in SBERT folder
 
 ReportCC++SBERTOurs.ipynb file generates the embeddings, cosine similairity and ranking
 
