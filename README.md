@@ -20,6 +20,8 @@ ReportCC++SBERTOurs.ipynb file generates the embeddings, cosine similairity and 
 
 Similarly the result can be passed to the  decisionTree.ipynb
 
+Then codebertOurs.ipynb generates the ranking and we can pass it to the classifier.
+
 # CodeBERT is implemented from Microsoft CodexGlue benchmark https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/Defect-detection
 
 Our part is available in CodeBERT folder
