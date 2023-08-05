@@ -23,3 +23,6 @@ Similarly the result can be passed to the  decisionTree.ipynb
 # CodeBERT is implemented from Microsoft CodexGlue benchmark https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/Defect-detection
 
 Our part is available in CodeBERT folder
+
+A2 - Code Edits.ipynb this file generates the embeddings and calculates cosine similarity.
+Then 
