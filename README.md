@@ -27,4 +27,4 @@ Then codebertOurs.ipynb generates the ranking and we can pass it to the classifi
 Our part is available in CodeBERT folder
 
 A2 - Code Edits.ipynb this file generates the embeddings and calculates cosine similarity.
-Then 
+Then codebertOurs.ipynb generates the ranking and we can pass it to the classifier.
