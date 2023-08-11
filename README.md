@@ -28,3 +28,6 @@ Our part is available in CodeBERT folder
 
 A2 - Code Edits.ipynb this file generates the embeddings and calculates cosine similarity.
 Then codebertOurs.ipynb generates the ranking and we can pass it to the classifier.
+
+# Dataset
+we used Devign dataset. We had to remove 71 records due to the code2vec implementation. Our test, train and validation file can be found at clearnDevignJsonl folder after removing 71 records.
