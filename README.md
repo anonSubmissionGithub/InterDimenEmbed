@@ -33,4 +33,4 @@ Then codebertOurs.ipynb generates the ranking and we can pass it to the classifi
 we used Devign dataset. We had to remove 71 records due to the code2vec implementation. Our test, train and validation file can be found at clearnDevignJsonl folder after removing 71 records.
 
 # Visualization
-visualization part can be downloaded from Visualization directory. data.7zip should be extractd. Then you can run using python3 -m http.server / python -m http.server command
+visualization part can be downloaded from Visualization directory. data.7zip should be extractd. Then you can run using python3 -m http.server / python -m http.server command. Run localhost to see the report.
